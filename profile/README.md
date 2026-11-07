@@ -27,6 +27,13 @@ Swift 6 and SwiftUI, MIT licensed. Issues, translations and new cleanup rules ar
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-3D7BF7)
 ![License MIT](https://img.shields.io/badge/license-MIT-A9B8FF)
 
+**[Clavra](https://github.com/Naqara-Dev/clavra)**: an SSH client for the Mac that knows which servers are production, and asks before a command you can't take back.
+Swift 6 and SwiftUI, MIT licensed.
+
+[![Latest release](https://img.shields.io/github/v/release/Naqara-Dev/clavra?label=Clavra&color=2a44d2)](https://github.com/Naqara-Dev/clavra/releases/latest)
+![macOS 15+](https://img.shields.io/badge/macOS-15%2B-3D7BF7)
+![License MIT](https://img.shields.io/badge/license-MIT-A9B8FF)
+
 **[Zefra](https://github.com/Naqara-Dev/Zefra)**: temperatures, fan control and diagnostics for the Mac, with rules you set and a warning when one part runs hot on its own.
 Swift 6 and SwiftUI, MIT licensed. New and tested on one Mac so far, so reports from other Macs help most.
 
