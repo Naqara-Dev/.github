@@ -27,6 +27,13 @@ Swift 6 and SwiftUI, MIT licensed. Issues, translations and new cleanup rules ar
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-3D7BF7)
 ![License MIT](https://img.shields.io/badge/license-MIT-A9B8FF)
 
+**[Zefra](https://github.com/Naqara-Dev/Zefra)**: temperatures, fan control and diagnostics for the Mac, with rules you set and a warning when one part runs hot on its own.
+Swift 6 and SwiftUI, MIT licensed. New and tested on one Mac so far, so reports from other Macs help most.
+
+[![Latest release](https://img.shields.io/github/v/release/Naqara-Dev/Zefra?label=Zefra&color=2a44d2)](https://github.com/Naqara-Dev/Zefra/releases/latest)
+![macOS 14+](https://img.shields.io/badge/macOS-14%2B-3D7BF7)
+![License MIT](https://img.shields.io/badge/license-MIT-A9B8FF)
+
 ## Work with us
 
 Need an app or a website built? See **[naqara.dev/jasa-pembuatan-aplikasi](https://naqara.dev/jasa-pembuatan-aplikasi/)** or write to **[hello@naqara.dev](mailto:hello@naqara.dev)**.
